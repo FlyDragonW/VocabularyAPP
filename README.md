@@ -13,5 +13,6 @@ Difficulty increases overtime, good luck!<br>
 </span>
 
 ## usage
-- Add vocabulary at list page (8 or more for better experience)
+- Download v1.0.apk
+- Add some words (8 or more for better experience)
 - Start!
